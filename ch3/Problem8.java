@@ -31,6 +31,5 @@ public class Problem8 {
         System.out.printf("result2 = (a+b) * c = (%d + %d) * %d = %d * %d = %d\n", a, b, c, a + b, c, (a + b) * c);
 //        System.out.printf("result3 = (a > b ? a : b + c = %d > %d ? %d : %d + %d = %b ? %d : %d = %d\n"
 //                                                        , )
-
     }
 }
